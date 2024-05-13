@@ -1,0 +1,18 @@
+Positive correlation:
+
+"median_income" has a correlation coefficient of 0.688075, indicating a moderate positive correlation with "median_house_value".
+Negative correlation:
+
+"latitude" has a correlation coefficient of -0.144160, suggesting a weak negative correlation with "median_house_value".
+
+
+
+
+
+
+For visualization, you can consider plotting the following:
+
+Histograms or density plots of the target variable ("median_house_value") to understand its distribution.
+Scatter plots of "median_house_value" against "median_income" to visualize their relationship. This can help you see if there is a clear trend or pattern between these two variables.
+Scatter plots of "median_house_value" against "latitude" to explore any geographical patterns in the housing prices.
+Additionally, you can explore other visualizations such as box plots, bar charts, or heatmaps to gain insights into the relationships between different features and their impact on the target variable.
